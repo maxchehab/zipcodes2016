@@ -1,0 +1,13 @@
+{
+  "name": "zipcodes2016",
+  "version": "1.0.0",
+  "description":
+    "Package provides city and state per zipcodes (last updated 2016).",
+  "main": "index.js",
+  "repository": "https://github.com/maxchehab/zipcodes2016",
+  "author": "Max Chehab",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
